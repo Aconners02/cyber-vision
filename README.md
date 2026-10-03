@@ -2,9 +2,8 @@
 
 **New here? Read [START-HERE.md](start%20here/START-HERE.md) first — it walks you through your very first commit, step by step.**
 
-## About Me
+## My name is Alisha, I have a background in technical support where I worked with both software and hardware issues and helped customers solve different technical problems. I decided to learn cybersecurity because I want to build on my technical experience and learn more about protecting computers, systems, and information from security threats. One of my goals for this course is to gain a better understanding of cybersecurity basics and learn skills that I can use in a future cybersecurity career.
 
-[Replace this paragraph with at least three sentences: who you are, why you are learning cybersecurity, and one learning goal for this course. Keep the `## About Me` heading and the rest of this README.]
 
 This repository documents your hands-on learning through the **CyberVisionaries Institute Cyber Foundations (Tier I)** program.
 
